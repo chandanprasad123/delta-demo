@@ -1,2 +1,2 @@
 # delta-demo
-delta demo project
+delta demo project.
